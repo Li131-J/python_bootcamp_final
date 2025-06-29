@@ -1,1 +1,1 @@
-To able to run my final project, you need to import following softwares: mataplotlib, numpy, Pillow and scipy.
+To run my final project, you need to have the following software libraries installed: matplotlib, numpy, Pillow, and scipy.
